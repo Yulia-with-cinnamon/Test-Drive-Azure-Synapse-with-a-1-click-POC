@@ -645,7 +645,7 @@
 					},
 					"SynapseWorkspaceName": {
 						"type": "string",
-						"defaultValue": "nytt3eos57pzc3wgpocws1"
+						"defaultValue": "nytt3eos57pzc3wgpocws1.sql.azuresynapse.net"
 					},
 					"SQLDedicatedPoolName": {
 						"type": "string",
@@ -1439,7 +1439,7 @@
 						"spark.dynamicAllocation.enabled": "false",
 						"spark.dynamicAllocation.minExecutors": "2",
 						"spark.dynamicAllocation.maxExecutors": "2",
-						"spark.autotune.trackingId": "c04b319a-2a7f-4069-a076-127f963b93d8"
+						"spark.autotune.trackingId": "56f66774-19e5-4695-9405-bec12aaf8243"
 					}
 				},
 				"metadata": {

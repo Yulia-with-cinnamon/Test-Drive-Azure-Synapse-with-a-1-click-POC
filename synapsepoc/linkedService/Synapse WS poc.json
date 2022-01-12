@@ -1,0 +1,11 @@
+{
+	"name": "Synapse WS poc",
+	"properties": {
+		"annotations": [],
+		"type": "PowerBIWorkspace",
+		"typeProperties": {
+			"workspaceID": "cb16e151-ffe3-46c6-8fe1-bfd9ac972e1f",
+			"tenantID": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+		}
+	}
+}
